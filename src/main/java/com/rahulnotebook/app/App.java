@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * Mail Test
+ * Mail Test with Java and MS Graph Library
  *
  */
 public class App 
